@@ -1,51 +1,51 @@
 cod_istat,comune,ATS,distretto_sanitario,centro_impiego,tot_uomini,tot_donne,tot_persone
-093001,Andreis,Valli e Dolomiti Friulane,Nord,MANIAGO,127,126,253
-093002,Arba,Valli e Dolomiti Friulane,Nord,MANIAGO,658,639,1297
-093004,Aviano,Livenza Cansiglio Cavallo,Ovest,PORDENONE,4464,4475,8939
-093005,Azzano Decimo,Sile e Meduna,Sud,PORDENONE,7696,7865,15561
-093006,Barcis,Valli e Dolomiti Friulane,Nord,MANIAGO,126,118,244
-093007,Brugnera,Livenza Cansiglio Cavallo,Ovest,PORDENONE,4634,4618,9252
-093008,Budoia,Livenza Cansiglio Cavallo,Ovest,PORDENONE,1274,1264,2538
-093009,Caneva,Livenza Cansiglio Cavallo,Ovest,SACILE,3118,3262,6380
-093010,Casarsa della Delizia,Tagliamento,Est,SAN VITO,4182,4173,8355
-093011,Castelnovo del Friuli,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,432,421,853
-093012,Cavasso Nuovo,Valli e Dolomiti Friulane,Nord,MANIAGO,748,771,1519
-093013,Chions,Sile e Meduna,Sud,SAN VITO,2535,2617,5152
-093014,Cimolais,Valli e Dolomiti Friulane,Nord,MANIAGO,188,167,355
-093015,Claut,Valli e Dolomiti Friulane,Nord,MANIAGO,440,480,920
-093016,Clauzetto,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,199,185,384
-093017,Cordenons,Noncello,Urbano,PORDENONE,8669,9119,17788
-093018,Cordovado,Tagliamento,Est,SAN VITO,1345,1394,2739
-093019,Erto e Casso,Valli e Dolomiti Friulane,Nord,MANIAGO,185,187,372
-093020,Fanna,Valli e Dolomiti Friulane,Nord,MANIAGO,775,785,1560
-093021,Fiume Veneto,Sile e Meduna,Sud,PORDENONE,5737,5948,11685
-093022,Fontanafredda,Noncello,Ovest,SACILE,6179,6320,12499
-093024,Frisanco,Valli e Dolomiti Friulane,Nord,MANIAGO,305,298,603
-093025,Maniago,Valli e Dolomiti Friulane,Nord,MANIAGO,5782,5988,11770
-093026,Meduno,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,774,757,1531
-093027,Montereale Valcellina,Valli e Dolomiti Friulane,Nord,MANIAGO,2090,2207,4297
-093028,Morsano al Tagliamento,Tagliamento,Est,SAN VITO,1353,1403,2756
-093029,Pasiano di Pordenone,Sile e Meduna,Sud,PORDENONE,3804,3818,7622
-093030,Pinzano al Tagliamento,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,732,779,1511
-093031,Polcenigo,Livenza Cansiglio Cavallo,Ovest,SACILE,1515,1615,3130
-093032,Porcia,Noncello,Urbano,PORDENONE,7344,7774,15118
-093033,Pordenone,Noncello,Urbano,PORDENONE,24705,26852,51557
-093034,Prata di Pordenone,Sile e Meduna,Sud,PORDENONE,4214,4177,8391
-093035,Pravisdomini,Sile e Meduna,Sud,PORDENONE,1774,1722,3496
-093036,Roveredo in Piano,Noncello,Urbano,PORDENONE,2929,3060,5989
-093037,Sacile,Livenza Cansiglio Cavallo,Ovest,SACILE,9631,10149,19780
-093038,San Giorgio della Richinvelda,Tagliamento,Nord,SPILIMBERGO,2392,2186,4578
-093039,San Martino al Tagliamento,Tagliamento,Est,SAN VITO,707,716,1423
-093040,San Quirino,Noncello,Urbano,PORDENONE,2112,2123,4235
-093041,San Vito al Tagliamento,Tagliamento,Est,SAN VITO,7374,7741,15115
-093042,Sequals,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,1089,1127,2216
-093043,Sesto al Reghena,Tagliamento,Est,SAN VITO,3196,3187,6383
-093044,Spilimbergo,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,5839,6153,11992
-093045,Tramonti di Sopra,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,144,148,292
-093046,Tramonti di Sotto,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,189,169,358
-093047,Travesio,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,874,898,1772
-093049,Vito d'Asio,Valli e Dolomiti Friulane,Nord,MANIAGO,371,356,727
-093050,Vivaro,Tagliamento,Est,SAN VITO,672,640,1312
-093051,Zoppola,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,4248,4203,8451
-093052,Vajont,Valli e Dolomiti Friulane,Nord,MANIAGO,837,810,1647
-093053,Valvasone Arzene,Noncello,Urbano,PORDENONE,1926,2013,3939
+93001,Andreis,Valli e Dolomiti Friulane,Nord,MANIAGO,127,126,253
+93002,Arba,Valli e Dolomiti Friulane,Nord,MANIAGO,658,639,1297
+93004,Aviano,Livenza Cansiglio Cavallo,Ovest,PORDENONE,4464,4475,8939
+93005,Azzano Decimo,Sile e Meduna,Sud,PORDENONE,7696,7865,15561
+93006,Barcis,Valli e Dolomiti Friulane,Nord,MANIAGO,126,118,244
+93007,Brugnera,Livenza Cansiglio Cavallo,Ovest,PORDENONE,4634,4618,9252
+93008,Budoia,Livenza Cansiglio Cavallo,Ovest,PORDENONE,1274,1264,2538
+93009,Caneva,Livenza Cansiglio Cavallo,Ovest,SACILE,3118,3262,6380
+93010,Casarsa della Delizia,Tagliamento,Est,SAN VITO,4182,4173,8355
+93011,Castelnovo del Friuli,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,432,421,853
+93012,Cavasso Nuovo,Valli e Dolomiti Friulane,Nord,MANIAGO,748,771,1519
+93013,Chions,Sile e Meduna,Sud,SAN VITO,2535,2617,5152
+93014,Cimolais,Valli e Dolomiti Friulane,Nord,MANIAGO,188,167,355
+93015,Claut,Valli e Dolomiti Friulane,Nord,MANIAGO,440,480,920
+93016,Clauzetto,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,199,185,384
+93017,Cordenons,Noncello,Urbano,PORDENONE,8669,9119,17788
+93018,Cordovado,Tagliamento,Est,SAN VITO,1345,1394,2739
+93019,Erto e Casso,Valli e Dolomiti Friulane,Nord,MANIAGO,185,187,372
+93020,Fanna,Valli e Dolomiti Friulane,Nord,MANIAGO,775,785,1560
+93021,Fiume Veneto,Sile e Meduna,Sud,PORDENONE,5737,5948,11685
+93022,Fontanafredda,Livenza Cansiglio Cavallo,Ovest,SACILE,6179,6320,12499
+93024,Frisanco,Valli e Dolomiti Friulane,Nord,MANIAGO,305,298,603
+93025,Maniago,Valli e Dolomiti Friulane,Nord,MANIAGO,5782,5988,11770
+93026,Meduno,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,774,757,1531
+93027,Montereale Valcellina,Valli e Dolomiti Friulane,Nord,MANIAGO,2090,2207,4297
+93028,Morsano al Tagliamento,Tagliamento,Est,SAN VITO,1353,1403,2756
+93029,Pasiano di Pordenone,Sile e Meduna,Sud,PORDENONE,3804,3818,7622
+93030,Pinzano al Tagliamento,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,732,779,1511
+93031,Polcenigo,Livenza Cansiglio Cavallo,Ovest,SACILE,1515,1615,3130
+93032,Porcia,Noncello,Urbano,PORDENONE,7344,7774,15118
+93033,Pordenone,Noncello,Urbano,PORDENONE,24705,26852,51557
+93034,Prata di Pordenone,Sile e Meduna,Sud,PORDENONE,4214,4177,8391
+93035,Pravisdomini,Sile e Meduna,Sud,PORDENONE,1774,1722,3496
+93036,Roveredo in Piano,Noncello,Urbano,PORDENONE,2929,3060,5989
+93037,Sacile,Livenza Cansiglio Cavallo,Ovest,SACILE,9631,10149,19780
+93038,San Giorgio della Richinvelda,Tagliamento,Est,SPILIMBERGO,2392,2186,4578
+93039,San Martino al Tagliamento,Tagliamento,Est,SAN VITO,707,716,1423
+93040,San Quirino,Noncello,Urbano,PORDENONE,2112,2123,4235
+93041,San Vito al Tagliamento,Tagliamento,Est,MANIAGO,7374,7741,15115
+93042,Sequals,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,1089,1127,2216
+93043,Sesto al Reghena,Tagliamento,Est,SAN VITO,3196,3187,6383
+93044,Spilimbergo,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,5839,6153,11992
+93045,Tramonti di Sopra,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,144,148,292
+93046,Tramonti di Sotto,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,189,169,358
+93047,Travesio,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,874,898,1772
+93049,Vito d'Asio,Valli e Dolomiti Friulane,Nord,SPILIMBERGO,371,356,727
+93050,Vivaro,Valli e Dolomiti Friulane,Est,SAN VITO,672,640,1312
+93051,Zoppola,Noncello,Urbano,SPILIMBERGO,4248,4203,8451
+93052,Vajont,Valli e Dolomiti Friulane,Nord,MANIAGO,837,810,1647
+93053,Valvasone Arzene,Tagliamento,Est,SAN VITO,1926,2013,3939
