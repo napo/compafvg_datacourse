@@ -1,4 +1,5 @@
 # slide del corso
+- (download PDF)[https://github.com/napo/compafvg_datacourse/raw/main/compafvg%20-%20corso%20avanzato%20(2).pdf]
 
 # dati elaborati durante il corso
 tutti i dati si riferiscono all'ex provincia di Pordenone (2019)
