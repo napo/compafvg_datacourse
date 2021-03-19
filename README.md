@@ -5,9 +5,12 @@
 tutti i dati si riferiscono all'ex provincia di Pordenone [2019]
 
 ## dati di partenza da fonte ISTAT
-[licenza cc-by]
+*licenza cc-by*
 - [shapefile confini comunali FVG ISTAT](https://github.com/napo/compafvg_datacourse/raw/main/data/comuni_fvg_istat_2021.zip)
 - [dati censumento popolazione 2019 ISTAT comuni PN](https://github.com/napo/compafvg_datacourse/raw/main/data/pn_census_2019.csv)
+
+## dati sociali di esempio 
+- [dati sulla disabilità del Noncello](https://github.com/napo/compafvg_datacourse/raw/main/data/dati_sulla_disabilita_noncello.xlsx)
 
 ## dati elaborati nel corso
 - [aree ATS](https://github.com/napo/compafvg_datacourse/raw/main/data/ats_pordenone.geojson)
